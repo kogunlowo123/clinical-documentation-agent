@@ -47,6 +47,11 @@ Clinical documentation agent that generates structured clinical notes from physi
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 clinical-documentation-agent/
 │
